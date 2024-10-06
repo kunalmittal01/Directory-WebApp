@@ -24,7 +24,7 @@ const Retrieve = ()=>{
                             <p className="font-semibold text-gray-800">Name: {userObj[0]?.name}</p>
                             <p className="font-semibold text-gray-800">Dob: {userObj[0]?.dob}</p>
                             <p className="font-semibold text-gray-800">Age: {userObj[0]?.age}</p>
-                            <p className="font-semibold text-gray-800">Address: {userObj[0]?.address}</p>
+                            <p className="font-semibold text-gray-800">Aadhar: {userObj[0]?.aadhar}</p>
                             <p className="font-semibold text-gray-800">Mobile No: {userObj[0]?.mobile}</p>
                         </div>
                     ):
